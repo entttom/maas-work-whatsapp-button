@@ -212,11 +212,11 @@ if(message_json.hasOwnProperty(userLang)){
             headerTitle: headerTitle,
             //headerColor: 'crimson',
             //backgroundColor: 'crimson',
-            position: "right",
-            avatar: true,
-            avatarRole: "Developer",
-            avatarName: "Tom",
-            avatarURL: '',
+            position: position,
+            avatar: avatar,
+            avatarRole: avatarRole,
+            avatarName: avatarName,
+            avatarURL: avatarURL,
             buttonImage: '<img src="https://cdn.jsdelivr.net/gh/entttom/maas-work-whatsapp-button/whatsapp.svg" />'
         });
     });
