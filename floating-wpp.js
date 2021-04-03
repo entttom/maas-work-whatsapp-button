@@ -216,7 +216,7 @@ if(message_json.hasOwnProperty(userLang)){
             avatar: true,
             avatarRole: "Developer",
             avatarName: "Tom",
-            avatarURL: 'steffl_logo.png',
-            buttonImage: '<img src="whatsapp.svg" />'
+            avatarURL: '',
+            buttonImage: '<img src="https://cdn.jsdelivr.net/gh/entttom/maas-work-whatsapp-button/whatsapp.svg" />'
         });
     });
